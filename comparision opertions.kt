@@ -5,6 +5,5 @@ fun main() {
     println(a<b)
     println(a>=b)
     println(a<=b)
-    println(a==b)
-    println(a!=b)
+    
 }
