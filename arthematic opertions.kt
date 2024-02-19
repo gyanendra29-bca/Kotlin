@@ -6,4 +6,5 @@ fun main() {
     println("multipication=${a*b}")
     println("division=${a/b}")
     println("modulas=${a%b}")
+
 }
