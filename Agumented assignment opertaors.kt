@@ -12,5 +12,4 @@ fun main() {
     println("modulas agumented = $a")
 
 
-
 }
