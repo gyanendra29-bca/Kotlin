@@ -10,5 +10,4 @@ fun main() {
         println(x) // infinite loop
     } while(true)
 
-
 }
