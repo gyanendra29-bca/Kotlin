@@ -10,4 +10,5 @@ fun main() {
     println("division agumented = $a")
     a%=5
     println("modulas agumented = $a")
+    
 }
