@@ -8,6 +8,7 @@ fun main() {
     do{
         x++
         println(x) // infinite loop
-    } while(true)
+ 
+   } while(true)
 
 }
